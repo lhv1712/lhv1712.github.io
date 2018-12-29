@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Về bản thân
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Mình tên Việt, là một kỹ sư Điện sắp ra trường ^^.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Mình có sở thích lập trình nhưng học kiểu cho vui và không có kỹ năng cơ bản của một kỹ sư lập trình.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Hiện tại, Blog trên Github của mình sẽ có nội dung chính là ghi lại quá trình học Haskell của bản thân.
